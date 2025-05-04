@@ -27,7 +27,7 @@ public double getViewQuality()
 /** Sets the quality of the view from this table to value . */
 public void setViewQuality(double value)
 {
-
+    viewQuality = value;
 }
 // There may be instance variables, constructors, and methods that are not shown.
 }
